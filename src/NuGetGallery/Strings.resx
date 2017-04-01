@@ -440,4 +440,7 @@ The {1} Team</value>
   <data name="WarningApiDeprecated" xml:space="preserve">
     <value>API '{0}' is deprecated and may be removed in a future version.</value>
   </data>
+  <data name="PackageVerificationKeysPolicyError" xml:space="preserve">
+    <value>Your account requires NuGet client version {0} or higher. Contact support for more details.</value>
+  </data>
 </root>
